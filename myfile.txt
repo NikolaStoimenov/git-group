@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 I am editing from main
+=======
+I am adding feature B!
+>>>>>>> featB
